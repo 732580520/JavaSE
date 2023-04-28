@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Syh_JavaSE.iml" filepath="$PROJECT_DIR$/Syh_JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day15/Syh_day15.iml" filepath="$PROJECT_DIR$/Syh_day15/Syh_day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day16/Syh_day16.iml" filepath="$PROJECT_DIR$/Syh_day16/Syh_day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day17/Syh_day17.iml" filepath="$PROJECT_DIR$/Syh_day17/Syh_day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day18/Syh_day18.iml" filepath="$PROJECT_DIR$/Syh_day18/Syh_day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day19/Syh_day19.iml" filepath="$PROJECT_DIR$/Syh_day19/Syh_day19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day20/Syh_day20.iml" filepath="$PROJECT_DIR$/Syh_day20/Syh_day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day21/Syh_day21.iml" filepath="$PROJECT_DIR$/Syh_day21/Syh_day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day22/Syh_day22.iml" filepath="$PROJECT_DIR$/Syh_day22/Syh_day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day23/Syh_day23.iml" filepath="$PROJECT_DIR$/Syh_day23/Syh_day23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day24/Syh_day24.iml" filepath="$PROJECT_DIR$/Syh_day24/Syh_day24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day25/Syh_day25.iml" filepath="$PROJECT_DIR$/Syh_day25/Syh_day25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syh_day26/Syh_day26.iml" filepath="$PROJECT_DIR$/Syh_day26/Syh_day26.iml" />
+    </modules>
+  </component>
+</project>
