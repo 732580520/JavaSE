@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8372a2f-d55e-4dfb-9648-48856529f44a" name="Changes" comment="Syh_JavaSE day26 13:58">
+    <list default="true" id="e8372a2f-d55e-4dfb-9648-48856529f44a" name="Changes" comment="Syh_JavaSE day27 14:38">
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Demo01_Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Demo02_EnumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/EnumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/Demo_ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/Demo_Junit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo06_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo07_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo08_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo09_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo10_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo11_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo12_Parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo13_GetValueToCollecion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo14_GetValueToArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Syh_day27/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day27/src/Hello.java" afterDir="false" />
     </list>
@@ -28,39 +44,52 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2P2OeFZ476ig2QJBcydD9gNkqdd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Workspaces/IdeaProjects/Syh_JavaSE&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "F:/Workspaces/IdeaProjects/Syh_JavaSE/Syh_day27/src/stream",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day27\src\stream" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day27\src" />
       <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day19\src" />
       <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day26\src" />
       <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day25\src" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day24\src" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day23\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="linkedlist" />
@@ -105,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682661540327</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Syh_JavaSE day26 13:58">
+      <created>1682663835949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682663835949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Syh_JavaSE day27 14:38">
+      <created>1682663953829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682663953829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +205,7 @@
     <MESSAGE value="Syh_JavaSE day26 13:22" />
     <MESSAGE value="Syh_JavaSE day26 13:38" />
     <MESSAGE value="Syh_JavaSE day26 13:58" />
-    <option name="LAST_COMMIT_MESSAGE" value="Syh_JavaSE day26 13:58" />
+    <MESSAGE value="Syh_JavaSE day27 14:38" />
+    <option name="LAST_COMMIT_MESSAGE" value="Syh_JavaSE day27 14:38" />
   </component>
 </project>
