@@ -4,25 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8372a2f-d55e-4dfb-9648-48856529f44a" name="Changes" comment="Syh_JavaSE day27 14:38">
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Demo01_Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Demo02_EnumScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/EnumScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/enum_/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/Demo_ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/junit/Demo_Junit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo06_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo07_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo08_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo09_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo10_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo11_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo12_Parallel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo13_GetValueToCollecion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Syh_day27/src/stream/Demo14_GetValueToArray.java" afterDir="false" />
+    <list default="true" id="e94d4dfb-e894-47f8-a46f-ff94cfce5ed4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/aaa/aaa目录下的html文件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/01-HTML概述.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/02-HTML标签介绍.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/03-常用标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/04-文本格式化标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/05-实体字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/06-超链接标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/07-图片标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/08-列表标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/09-table表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/10-form表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/abc/abcd/abcd目录下html文件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/abc/abc目录下的html文件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/html/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_HTML/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/Syh_day27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day27/src/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/Syh_day28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/annotation/Demo01_JdkAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/annotation/Myannotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/enum_/Demo01_Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/enum_/Demo02_EnumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/enum_/EnumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/enum_/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Demo01_GetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Demo02_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Demo02_Filed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Demo04_GetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day28/src/fanShe/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day29-31 mysql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day29-31 mysql/Syh_day29-31 mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Demo01_HelloJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Demo2_JdbcApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Demo3_ResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Demo4_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Demo5_JdbcCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day32/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo10_Savepoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo11_C3P0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo12_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo13_DruidInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo14_DruidUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo15_DruidDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo16_JdbcTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo1_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo2_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo3_Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo4_Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo5_Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo6_Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo7_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo8_PreparedBatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/Demo9_JdbcTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/DruidUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Syh_day33/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.22.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Syh_day27/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day27/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syh_JavaSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_JavaSE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syh_day19/src/linkedlist/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day19/src/linkedlist/TestLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syh_day19/src/vector/TestVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day19/src/vector/TestVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syh_day25/src/Demo_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day25/src/Demo_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syh_day25/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Syh_day25/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +105,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Syh_day32/pom.xml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Syh_day33/pom.xml" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\MavenRepository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="F:\ruanjian\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../ruanjian/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\ruanjian\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2P2OeFZ476ig2QJBcydD9gNkqdd" />
+  <component name="ProjectId" id="2PYLVnatBWOMWj7n1YUkMZYHuzR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,137 +129,103 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "F:/Workspaces/IdeaProjects/Syh_JavaSE/Syh_day27/src/stream",
+    "last_opened_file_path": "F:/Workspaces/IdeaProjects/Syh_JavaSE/Syh_HTML",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "project.structure.proportion": "0.0882353",
+    "project.structure.side.proportion": "0.22486773",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "d44b84c2cf8489e2dabff37f22133b3f",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day27\src\stream" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day27\src" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day19\src" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day26\src" />
-      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day25\src" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_HTML" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day33\src" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day322\src" />
+      <recent name="F:\Workspaces\IdeaProjects\Syh_JavaSE\Syh_day34\src" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="linkedlist" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo15_DruidDelete">
+    <configuration name="Demo11_C3P0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo11_C3P0" />
+      <module name="Syh_day33" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo12_Druid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo12_Druid" />
+      <module name="Syh_day33" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo13_DruidInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo13_DruidInsert" />
+      <module name="Syh_day33" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo14_DruidUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo14_DruidUpdate" />
+      <module name="Syh_day33" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo15_DruidDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo15_DruidDelete" />
+      <module name="Syh_day33" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo15_DruidDelete" />
+        <item itemvalue="Application.Demo14_DruidUpdate" />
+        <item itemvalue="Application.Demo13_DruidInsert" />
+        <item itemvalue="Application.Demo12_Druid" />
+        <item itemvalue="Application.Demo11_C3P0" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8372a2f-d55e-4dfb-9648-48856529f44a" name="Changes" comment="" />
-      <created>1682651808835</created>
+      <changelist id="e94d4dfb-e894-47f8-a46f-ff94cfce5ed4" name="Changes" comment="" />
+      <created>1683629097137</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1682651808835</updated>
-      <workItem from="1682651810273" duration="5551000" />
+      <updated>1683629097137</updated>
+      <workItem from="1683629099814" duration="2920000" />
+      <workItem from="1684291178154" duration="1536000" />
     </task>
-    <task id="LOCAL-00001" summary="Syh_JavaSE day26">
-      <created>1682659190356</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1682659190356</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Syh_JavaSE day26 13:22">
-      <created>1682659329523</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1682659329523</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Syh_JavaSE day26 13:38">
-      <created>1682660363268</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1682660363268</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Syh_JavaSE day26 13:58">
-      <created>1682661540327</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1682661540327</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Syh_JavaSE day26 13:58">
-      <created>1682663835949</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1682663835949</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Syh_JavaSE day27 14:38">
-      <created>1682663953829</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1682663953829</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="59db18a3-df1a-4874-9c89-7d4fb05a1b43" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="59db18a3-df1a-4874-9c89-7d4fb05a1b43">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="roots">
-                    <value>
-                      <list>
-                        <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -199,13 +233,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Syh_JavaSE day26" />
-    <MESSAGE value="Syh_JavaSE day26 13:22" />
-    <MESSAGE value="Syh_JavaSE day26 13:38" />
-    <MESSAGE value="Syh_JavaSE day26 13:58" />
-    <MESSAGE value="Syh_JavaSE day27 14:38" />
-    <option name="LAST_COMMIT_MESSAGE" value="Syh_JavaSE day27 14:38" />
   </component>
 </project>

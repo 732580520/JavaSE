@@ -40,6 +40,6 @@ public class Test implements  Runnable{
 
     @Override
     public void run() {
-        deleteFile(new File("D:\\数据恢复ios\\iMyfone_Full_Backup\\2022_09_28__15_18_50\\00008020-000854D026B8003A"));
+        deleteFile(new File("D:\\需要上传\\20230303桌面\\零基础学习ssm"));
     }
 }

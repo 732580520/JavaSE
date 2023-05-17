@@ -1,6 +1,6 @@
 package linkedlist;
 
-import com.bjpn.homework.bean.Student;
+import set.Student;
 
 import java.util.LinkedList;
 

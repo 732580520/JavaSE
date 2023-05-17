@@ -1,6 +1,6 @@
 package vector;
 
-import com.bjpn.homework.bean.Student;
+import set.Student;
 
 import java.util.Enumeration;
 import java.util.Iterator;
